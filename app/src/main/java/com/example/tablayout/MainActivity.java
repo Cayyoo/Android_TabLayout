@@ -11,7 +11,7 @@ import com.example.tablayout.utils.CustomTabIndicator;
 
 /**
  * 自定义TabLayout Indicator大小
- * Tab项可滑动
+ * Tab项中Fragment可滑动
  */
 public class MainActivity extends AppCompatActivity {
     private TabLayout mTabLayout;
